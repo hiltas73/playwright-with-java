@@ -1,4 +1,4 @@
-package com.cydeo.tests.day_01.playwright_intro;
+package com.cydeo.tests.day_01.pac01_playwright_intro;
 
 import com.microsoft.playwright.Browser;
 import com.microsoft.playwright.BrowserType;
