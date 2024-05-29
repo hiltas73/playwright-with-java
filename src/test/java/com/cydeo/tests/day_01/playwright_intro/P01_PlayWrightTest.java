@@ -9,6 +9,7 @@ public class P01_PlayWrightTest {
 
     public static void main(String[] args) throws InterruptedException {
         Playwright playwright = Playwright.create();
+        //BrowserType firefox = playwright.firefox();
         BrowserType chromium = playwright.chromium();
         Browser browser = chromium.launch();
         /**
